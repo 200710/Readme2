@@ -65,11 +65,3 @@
 
 > <span style="color: #6C757D; font-style: italic;">«Знание — это сила, а сила — это ответственность.»</span>
 
-<style>
-hr {
-    border: 0;
-    height: 2px;
-    background: linear-gradient(90deg, #2E86AB, #A23B72, #F18F01);
-    margin: 30px 0;
-}
-</style>
