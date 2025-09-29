@@ -66,7 +66,6 @@
 > <span style="color: #6C757D; font-style: italic;">«Знание — это сила, а сила — это ответственность.»</span>
 
 <style>
-/* Дополнительные стили для красоты */
 hr {
     border: 0;
     height: 2px;
